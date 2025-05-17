@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#git pull
+git pull
 
 download() {
     local metadata_args=""
