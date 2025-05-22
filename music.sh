@@ -42,11 +42,6 @@ download() {
         -- "$1"
 }
 
-
-getComment() {
-    ffprobe -v error -show_entries format_tags=comment -of default=noprint_wrappers=1:nokey=1 "$1"
-}
-
 if [[ $# -ne 1 ]]; then
     echo "Usage: $0 <input_file>"
     exit 1
@@ -56,9 +51,8 @@ input_file="$1"
 
 declare -A music_meta
 while IFS=$'\t' read -r id title artist album; do
-    music_meta["$id"]="$title|$artist|$album"
+    music_meta["$id"]="${title}"$'\t'"${artist}"$'\t'"${album}"
 done < "$input_file"
-
 
 folder_name="${input_file%.*}"
 
@@ -66,27 +60,32 @@ mkdir -p "$folder_name"
 
 cd "$folder_name" || exit 1
 
-shopt -s nullglob
+found_ids_list=$(
+    find . -name '*.mp3' |
+    parallel --bar --no-run-if-empty '
+        file={};
+        file_id=$(ffprobe -v error -show_entries format_tags=comment -of default=noprint_wrappers=1:nokey=1 "$file");
+        if [[ -z "$file_id" ]]; then
+            rm "$file"
+        else
+            echo -e "$file\t$file_id"
+        fi
+    '
+)
 
 declare -A found_ids
-for file in *.mp3; do
-    file_id=$(getComment "$file")
-    if [[ -z "$file_id" ]]; then
-        rm "$file"
-        continue
-    fi
+while IFS=$'\t' read -r file file_id; do
     found_ids["$file_id"]=1
     if [[ -z "${music_meta[$file_id]}" ]]; then
         rm "$file"
     fi
-done
+done <<< "$found_ids_list"
 
-shopt -u nullglob
-
+export -f download
 
 for id in "${!music_meta[@]}"; do
     if [[ -z "${found_ids[$id]}" ]]; then
-        IFS='|' read -r title artist album <<< "${music_meta[$id]}"
-        download "$id" "$title" "$artist" "$album"
+        IFS=$'\t' read -r title artist album <<< "${music_meta[$id]}"
+        printf '%s\t%s\t%s\t%s\n' "$id" "$title" "$artist" "$album"
     fi
-done
+done | parallel --bar --no-run-if-empty --colsep '\t' download '{1}' '{2}' '{3}' '{4}'
