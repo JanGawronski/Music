@@ -1,5 +1,5 @@
 TOyiiZXICIE	Karate	Nocny Kochanek	rm
-JhghCaPHgEs	1 Up	Rucka Rucka Ali	rm
+pMg--D3imQ4	1 Up	Rucka Rucka Ali	rm
 A6hMW29cpJ8	1000 Doors	The Living Tombstone	rm
 2rHRztFGOm8	1985	Bo Burnham	rm
 JZD8GKREjCE	3-Way	The Lonely Island	rm
@@ -10,6 +10,7 @@ I8LnIY8rOCA	A Complete History of the Soviet Union, Through the Eyes of a Humble
 ujui87ho7oA	Andrew Tate	Rucka Rucka Ali	rm
 8ay_BkRuv-o	All Star	Smash Mouth	rm
 z8WunrI7yh0	Art is dead	Bo Burnham	rm
+L4MlbwcaKLo	Asgore Runs Over Dess	Deltarune	rm
 lhUFIGTlX-4	BANG!	AJR	rm
 tJgehE22_KA	Bogdan Boner: Egzorcysta	Ajronwejder	rm
 Y7ch5Qj_oEY	Metalomobil	Ajronwejder	rm
@@ -32,8 +33,9 @@ skXTaWfMZGM	Bal jak bal	Bracia Figo Fagot	rm
 g-q29-tV6hw	Bamboleo	Bracia Figo Fagot	rm
 BRD9BqjIk-E	Banana Man	Tally Hall	rm
 Xm5LzlX-qfE	Beata Paulina	Bracia Figo Fagot	rm
+BLObWFBSVH0	Ben 10 Main Theme	Andy Sturmer	rm
 KQgjHRwMPZQ	Beethoven Virus	Diana	rm
-5AI44gnaLxY	Better Call Saul Main Title Theme	Little Barrie	rm
+yBm4K00SMEk	Better Call Saul Main Title Theme	Little Barrie	rm
 BBZrELBT8sI	Beverly Hills	Weezer	rm
 EdqHgnGieeM	Big Chungus 2	Endigo	rm
 rYi4Z0u-a9w	BIG CHUNGUS	Endigo	rm
@@ -112,6 +114,7 @@ Zf-A1d4hU3k	FUCK THIS SHIT IM OUT	YoungBlaze	rm
 9KnzkZCJi-w	Gdybym zgolił wąs	Bracia Figo Fagot	rm
 ifNr1lOawX4	Gdy Nie Ma Dzieci	Kult	rm
 E1BY0WVbC_c	Gender	Łydka Grubasa	rm
+A1MdThqGarI	Pretty Little Baby	Connie Francis	rm
 -5qqrMu_AZc	Gangsta's Paradise	Coolio	rm
 c3Pd7nH7Y40	L'AMOUR TOUJOURS	GIGI D'AGOSTINO	rm
 eEwV_53U0Sw	Ściernisko	Golec uOrkiestra	rm
@@ -166,12 +169,13 @@ VHb_XIql_gU	Kids	MGMT	rm
 V7CO3dYfKHs	Kill Yourself	Bo Burnham	rm
 c_QeWGPnExc	Klocki	Kabanos	rm
 A_Tttp9Jea8	Kocham piwo	Big Cyc	rm
-7mg4rAxEtWw	Kolonia specjalna	Kuki	rm
+ALw27Eep9aE	Kolonia specjalna	Kuki	rm
 t5QBipJEtHQ	Kołowrotek	Wojtek Szumański	rm
 g6f9Dis7l78	Koń na białym rycerzu	Nocny Kochanek	rm
 jxPbBdEfTqU	Królowa dzielni	Cjalis	rm
 RQt0J0afgV8	Mój przyjacielu	Krzysztof Krawczyk	rm
 ZDZjMs_5bZM	Kto By Pomyślał	Wojtek Szumański	rm
+gG0Xc4hO2zc	Kylie	Akcent	rm
 Wf8KaGnqV4U	Kukurydza	Lej Mi Pół	rm
 DHcDLcO2Yp8	Baranek	Kult	rm
 ccAUZgHnVtk	Brooklyńska rada żydów	Kult	rm
@@ -179,6 +183,7 @@ uNgfoCcmdPE	Łabędź	Lej Mi Pół	rm
 1e32cgJrbBo	Bloody Mary	Lady Gaga	rm
 5mHzaIehRTE	Lay All Your Love On Me	ABBA	rm
 enPg09IpUjU	Lemon Tree	Fools Garden	rm
+sIxNEls_YUw	Leave It All To Me	Miranda Cosgrove	rm
 NOtLrcgJ0YM	Life online	Rucka Rucka Ali	rm
 Jnjuk_yxDJk	Lifelight	Akano	rm
 UadtlXKk1ek	Like a Prayer	Madonna	rm
@@ -204,6 +209,7 @@ gDCRrvtY78g	U Can't Touch This	MC Hammer	rm
 hfmxO-HQ5rU	Down Under	Men At Work	rm
 _mMyPJSx8RU	Smooth Criminal	Michael Jackson	rm
 Bsr8hb3TPBI	Cooler than me	Mike Posner	rm
+-HTV6uzyZxY	Małpka bananowa	Bracia Figo Fagot	rm
 UAlIq7BKNxg	Mine All Day	PewDiePie	rm
 UfuLEiKr2_M	Minecraft won't add inches to your cock	Rucka Rucka Ali	rm
 ZZujisNZuw0	MINECRAFT CREEPER RAP	Dan Bull	rm
@@ -211,6 +217,7 @@ esXsbySzpqg	Minerał Fiutta	Nocny Kochanek	rm
 1VPotzhpAGE	Misery Business	Paramore	rm
 OFi8748c9Ew	Misery Fell	Tally Hall	rm
 mKpsuGMeqHI	Misirlou	Dick Dale	rm
+2zXTaB_9JQg	Money For Nothing	Dire Straits	rm
 rwRsr-0CmAE	Morskie Opowieści	Piosenki Szantowe	rm
 cqHkyxTdI58	Motherlover	The Lonely Island	rm
 pLJ85XExZtQ	&	Tally Hall	rm
@@ -232,6 +239,7 @@ DSJzz0s0HsA	Can-Can	Jacques Offenbach	rm
 wsHbHR3Os6U	Oops!... I Did It Again	Britney Spears	rm
 N_huCu7SChw	Opera Knishes	Travis Donnell	rm
 XfZYgghMCGc	ORAJ POLE NA TRAKTORE!	Rolnicze Disco	rm
+YZuFsI-bttM	Orki z Majorki	GF Darwin	rm
 XZSeUP3Xee8	Ostatnia Nocka	Yugopolis	rm
 FDzr-IFSJyc	Only 17	Rucka Rucka Ali	rm
 f7P5Q2IIT4U	Dragostea Din Tei	O-Zone	rm
@@ -245,7 +253,7 @@ Vk8UEWHYfEg	Hej Monika Remix	PewDiePie	rm
 5dQYXAEF7lE	Phantom Liberty	Dawid Podsiadło, P.T. Adamczyk	rm
 LLbew85exp0	Piano Man	Billy Joel	rm
 caNkiL2dVMA	Bałkanica	Piersi	rm
-2dbR2JZmlWo	KILL YOURSELF	Filthy Frank	rm
+q9_Mc-Jb2vc	KILL YOURSELF	Filthy Frank	rm
 GhJ043zp8hI	STFU	Filthy Frank	rm
 v2vWDWxYJBc	Pink Triangle	Weezer	rm
 xqHKc-YU7aU	Pisarz Miłości	Bracia Figo Fagot	rm
@@ -287,6 +295,7 @@ i3-XSmoMWXc	Scenariusz dla moich sąsiadów	Myslovitz	rm
 GjDfnE08ewg	Seijaku no Apostle	Jonathan Young	rm
 lMKY5NSdbns	Seksualna czekolada	Afro Kolektyw	rm
 Ucmo6hDZRSY	Self Control	Laura Branigan	rm
+BSvORvIjZiU	Sixteen Tons	Tennessee Ernie Ford	rm
 RZspOHtpPyY	She sells sea shells on the sea shore	Doge Devito Productions	rm
 ZSRzCbpIxZo	Snowman	Sia	rm
 -eqJGVl0Pr0	The Sounds of Silence	Simon & Garfunkel	rm
@@ -305,6 +314,7 @@ rDHzx3aMLxY	Symetryczno-liryczna	Enej	rm
 PBmtJvIcFXI	Skrzydlate Ręce	Enej	rm
 oMfMUfgjiLg	Sweet Child O' Mine	Guns N' Roses	rm
 RQjHCOmwlgQ	Świnki i Damy	Bracia Figo Fagot	rm
+MY3pZlmYB88	Tak bardzo się starałem	Czerwone Gitary	rm
 d11xns8lE4w	Take Me Out	Franz Ferdinand	rm
 HzdD8kbDzZA	Take on Me	a-ha	rm
 GmSNx9h3d_E	Takie ładne oczy	Czerwone Gitary	rm
@@ -320,6 +330,8 @@ oUv0NbjbGzQ	I'm Gonna Be (500 Miles)	Dig!	rm
 r5QW0d8cNek	The Ultimate Showdown of Ultimate Destiny	Lemon Demon	rm
 ivZFY7o_-QU	THE HERO	Jam Project 	rm
 XMCYNH1EJTg	THE HERO Cover	Jonathan Young	rm
+p2XmLDEuSB0	The Safety Dance	Men Without Hats	rm
+qLlpoiNvE2k	The Riddle	Nik Kershaw	rm
 J7p4bzqLvCw	Blinding Lights	The Weeknd	rm
 D_QLxj8jCF0	Seven Nation Army	The White Stripes	rm
 37GLz88_w44	They Say	Daron Malakian and Scars On Broadway	rm
@@ -344,11 +356,14 @@ ONhfmrKJ5kE	The Sweater Song	Weezer	rm
 PNoIn1WKiEc	A Thousand Miles	Vanessa Carlton	rm
 53LY9fBzrXM	Astronomia	Vicetone	rm
 3a-q7vPa-UU	Viva La Vida	Coldplay	rm
+qGBohd0V2Mo	Video Killed The Radio Star	The Buggles	rm
 LJCLUhBzBM8	Variations on the cloud	Miracle Musical	rm
 sVXsZhB7E9k	Wędkarz miłości	Bracia Figo Fagot	rm
 M5EgMhITQN4	We Don't Talk About Bruno	Sus Version	rm
 Z6gvqm6gud4	Wędrowny Druciarz	Lej Mi Pół	rm
 vcaPiiFZu2o	Ocean Man	Ween	rm
+dEEB-51RpnY	Oh Lord	Foxy Shazam	rm
+-MZjP5Had9s	Ona Jest Pedałem	Czerwone Gitary	rm
 CLW3FnDa1nQ	Welcome to the Internet	Bo Burnham	rm
 D458Eaql_aQ	Wellerman (Sea Shanty)	Nathan Evans	rm
 wWe4SgaaxKM	Wesele	Bracia Figo Fagot	rm
